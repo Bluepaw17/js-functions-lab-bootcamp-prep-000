@@ -2,3 +2,4 @@
 function sayHappyHolidays(string) {
   console.log('Happy holidays!')
 }
+sayHappyHolidays
